@@ -1,8 +1,8 @@
-export interface Iprojects {
+export interface IProjects {
     src: string,
     alt: string,
     title: string,
-    width: string,
+    with: string,
     height: string,
     description: string,
     links: [
